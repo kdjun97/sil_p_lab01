@@ -9,7 +9,7 @@ public class Main {
 
 		System.out.println("Hello World!!!\n");
 		
-		System.out.print("ÀÌ¸§ ÀÔ·Â : ");
+		System.out.print("ì´ë¦„ ì…ë ¥ : ");
 		String name = sc.next();
 		lab01.yourName(name);
 		sc.close();
@@ -18,6 +18,6 @@ public class Main {
 	// print your name
 	void yourName(String n)
 	{
-		System.out.println("[" + n + "]´Ô È¯¿µÇÕ´Ï´Ù~");
+		System.out.println("[" + n + "]ë‹˜ í™˜ì˜í•©ë‹ˆë‹¤~");
 	}
 }
